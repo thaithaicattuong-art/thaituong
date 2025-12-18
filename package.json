@@ -1,0 +1,12 @@
+{
+  "name": "auto-chat-tool",
+  "version": "1.0.0",
+  "description": "Auto opens Chrome with a remote debugging port and navigates to Bruce Chat.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  }
+}
