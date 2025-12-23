@@ -3,6 +3,13 @@ npm install
 chạy:
 npm install
 
+npm start
+chạy:
+npm install
+npm start
+chạy:
+npm install
+npm start
 
 
 
