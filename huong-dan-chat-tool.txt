@@ -1,6 +1,4 @@
 
-
-
 chạy:
 npm install
 chạy:
