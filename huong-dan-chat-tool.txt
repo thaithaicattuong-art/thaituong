@@ -10,3 +10,15 @@ chạy:
 npm install
 npm start
 
+
+chạy:
+npm install
+chạy:
+npm install
+npm start
+npm install
+npm start
+chạy:
+npm install
+npm start
+
