@@ -1,3 +1,67 @@
+bài 1: What is IOPn?
+
+1) What does IOPn mean by "human empowerment over corporate extraction"?
+Answer: Building infrastructure where users control their data, identity, and value rather than having it extracted by centralized platforms
+
+2) What is the primary purpose of OPN Studios?
+Answer: To bridge Web2 and Web3 through gaming experiences while driving user acquisition
+
+3) What role does blockchain play in IOPn's AI infrastructure?
+Answer: Blockchain serves as the trustless verification layer for AI operations, ensuring integrity of training data, model checkpoints, and inference outputs
+
+4) Which of the following best describes IOPn's mission?
+Answer: To build infrastructure that enables digital sovereignty for individuals and enterprises, prioritizing human empowerment over corporate extraction
+
+5) What is OPN Chain?
+Answer: A sovereign-ready Layer-1 blockchain infrastructure with 10,000+ TPS and sub-second finality
+
+6) What are the three types of sovereignty that IOPn enables?
+Answer: Technical, legal, and economic sovereignty
+
+7) What is Neo ID?
+Answer: A protocol-level digital identity solution with self-sovereign identity and zero-knowledge proofs
+
+8) What is the core philosophy behind IOPn's "Internet of People" vision?
+Answer: Technology should empower people, not exploit them, inverting the extractive model of Big Tech platforms
+
+9) Which investment entity helped IOPn achieve unicorn status (over $1 billion valuation)?
+Answer: NG9 Holding from Abu Dhabi
+
+10) What does IOPn stand for?
+Answer: Internet of People powered by networks
+
+
+
+bài 2: What is OPN Chain?
+➖What popular programming language can developers use to build on OPN Chain?
+👉Solidity 
+
+➖How long does transaction finality take on OPN Chain? 
+👉Less than 1 second  
+
+➖How many transactions per second can OPN Chain process?
+👉10,000+ TPS  
+
+➖Which IOPn product provides identity at the protocol level on OPN Chain?
+👉Neo ID 
+
+➖Which SDK is OPN Chain built on?
+👉Cosmos SDK 
+
+➖What does EVM-compatible mean for developers?
+👉They can use Ethereum tools and Solidity 
+
+➖What consensus mechanism does OPN Chain use?
+👉BFT 
+
+➖What type of blockchain is OPN Chain?
+👉Layer-1 blockchain 
+
+➖What is one key benefit of OPN Chain's instant finality? 
+👉Transactions are confirmed and irreversible almost immediately 
+
+➖What type of applications is OPN Chain designed for? 
+👉Both digital and physical applications
 chạy:
 npm install
 chạy:
