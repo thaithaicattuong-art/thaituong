@@ -3,6 +3,11 @@ bài 1: What is IOPn?
 1) What does IOPn mean by "human empowerment over corporate extraction"?
 Answer: Building infrastructure where users control their data, identity, and value rather than having it extracted by centralized platforms
 
+bài 1: What is IOPn?
+
+1) What does IOPn mean by "human empowerment over corporate extraction"?
+Answer: Building infrastructure where users control their data, identity, and value rather than having it extracted by centralized platforms
+
 2) What is the primary purpose of OPN Studios?
 Answer: To bridge Web2 and Web3 through gaming experiences while driving user acquisition
 
