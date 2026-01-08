@@ -1,4 +1,6 @@
 bài 1: What is IOPn?
+1) What does IOPn mean by "human empowerment over corporate extraction"?
+Answer: Building infrastructure where users control their data, identity, and value rather than having it extracted by centralized platforms
 
 1) What does IOPn mean by "human empowerment over corporate extraction"?
 Answer: Building infrastructure where users control their data, identity, and value rather than having it extracted by centralized platforms
